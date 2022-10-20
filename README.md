@@ -68,5 +68,3 @@ Tasks para continuar evoluindo:
 - [ ] Faça os projetos sozinho
 - [x] Tire as dúvidas
 - [ ] Done! 🎉
-
-ht
