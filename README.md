@@ -18,7 +18,7 @@ Antes de começar Revisce o que foi estudado
 
 **Nível Iniciante**
 
-- Bootcamp Orange Tech +  [Acesse o Curso](tps://web.dio.me/track/81278323-8916-401b-8446-03118eaff280)
+- Bootcamp Orange Tech+  - [Acesse o Curso](https://web.dio.me/track/81278323-8916-401b-8446-03118eaff280)
 
 **Curso feitos do Bootcamp:**
 
